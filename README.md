@@ -1,4 +1,5 @@
 # jasmine and irises
+
 ＿.,.-~:+*+:~-.,.＿.,.-~:+*+:~-.,.＿.,.-~:+*+:~-.,.＿.,.-~:+*+:~-.,.＿.,.-~:+*+:~-.,.
   > **Natalia** | she/her • ona/jej <br>
 
@@ -9,6 +10,12 @@ Hello, my name is Natalia, but on the internet, I go under `hilgardite`, `jasmin
 I'm not a professional when it comes to coding; most what I do in here, on GitHub, is learning from the others and appreciating nice fonts uploaded by some users.
 ### Who am I? 
 <small>(A question I ask myself nearly every hour)</small><br>
+- **pronouns**: she/her
+- **country**: Poland
+- **affiliation**: [Polish Philology Institute](https://polonistyka.amu.edu.pl/), [Faculty of Polish and Classical Philology](https://wfpik.amu.edu.pl/en), <mark>Adam Mickiewicz University</mark>
+- **main field**: literary studies
+- **research interests**: avant-garde literature • cognitive sciences • concrete poetry • critical theory & discourse analysis • disability studies • media & communication studies • postmodern philosophy / poststructuralism • theory & history of science • theory & history of psychiatry
+- **GitHub areas**: HTML • CSS • UX/UI (for webpages ) • OpenType typography 
 ### My (quite boring) repositories
 #### [1.] Twine rework
 A place where I wish to put my old e-lit pieces (the ones I made for my uni class). Currently, they have cluttered messy codes, very long and redundant I believe. I'll try to make the codes neater, lighter, and rework some default styles/JS created by Twine that I couldn't change while creating aforementioned works. I plan to add not only the whole works, but also extract some of their parts that could exist separately, such as stylesheets. Maybe some of the files uploaded by me will be useful to those willing to explore some Twine customisation ideas :).
