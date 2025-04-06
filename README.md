@@ -1,9 +1,9 @@
 # jasmine and irises
 
-＿.,.-~:+*+:~-.,.＿.,.-~:+*+:~-.,.＿.,.-~:+*+:~-.,.＿.,.-~:+*+:~-.,.＿.,.-~:+*+:~-.,.
-  > **Natalia** | she/her • ona/jej <br>
+＿.,.-⁓:+＊+:⁓-.,.＿.,.-⁓:+＊+:⁓-.,.＿.,.-⁓:+＊+:⁓-.,.＿.,.-⁓:+＊+:⁓-.,.＿.,.-⁓:+＊+:⁓-.,.<br>
+  > <mark>**Natalia** | she/her • ona/jej</mark> <br>
 
-＿.,.-~:+*+:~-.,.＿.,.-~:+*+:~-.,.＿.,.-~:+*+:~-.,.＿.,.-~:+*+:~-.,.＿.,.-~:+*+:~-.,.
+＿.,.-:⁓+＊+:⁓-.,.＿.,.-⁓:+＊+:⁓-.,.＿.,.-⁓:+＊+:⁓-.,.＿.,.-⁓:+＊+:⁓-.,.＿.,.-⁓:+＊+:⁓-.,.
 
 ## [ENG]
 Hello, my name is Natalia, but on the internet, I go under `hilgardite`, `jasmine-and-irises` or `irises-and-jasmine`. 
@@ -12,14 +12,14 @@ I'm not a professional when it comes to coding; most what I do in here, on GitHu
 <small>(A question I ask myself nearly every hour)</small><br>
 - **pronouns**: she/her
 - **country**: Poland
-- **affiliation**: [Polish Philology Institute](https://polonistyka.amu.edu.pl/), [Faculty of Polish and Classical Philology](https://wfpik.amu.edu.pl/en), <mark>Adam Mickiewicz University</mark>
+- **affiliation**: Polish Philology Institute[^1], Faculty of Polish and Classical Philology[^2], Adam Mickiewicz University
 - **main field**: literary studies
 - **research interests**: avant-garde literature • cognitive sciences • concrete poetry • critical theory & discourse analysis • disability studies • media & communication studies • postmodern philosophy / poststructuralism • theory & history of science • theory & history of psychiatry
 - **GitHub areas**: HTML • CSS • UX/UI (for webpages ) • OpenType typography 
 ### My (quite boring) repositories
-#### [1.] Twine rework
+#### [1.] Twine rework[^view]
 A place where I wish to put my old e-lit pieces (the ones I made for my uni class). Currently, they have cluttered messy codes, very long and redundant I believe. I'll try to make the codes neater, lighter, and rework some default styles/JS created by Twine that I couldn't change while creating aforementioned works. I plan to add not only the whole works, but also extract some of their parts that could exist separately, such as stylesheets. Maybe some of the files uploaded by me will be useful to those willing to explore some Twine customisation ideas :).
-#### [2.] uni projects
+#### [2.] uni projects[^view]
 Basically, the name should say everything. But my major is not IT-focused and there may seem to be no opportunities to use code or make documents suitable for uploading on GitHub. For now, the only thing I'm considering to add in here is a simple webpage for _information & communication technologies in teacher's work_. It was recommended to be built in Wix, but I don't wish to support this platform and the company managing it. As there are no completely free alternatives to Wix, by which I mean fully WYSIWYG web design visual editors allowing for wide customisation of the page, I decided to write the page myself from the scratch. 
 ### some projects I wish to create one day
 - [ ] **a linear, fixed-width grotesque font**
@@ -40,6 +40,10 @@ Basically, the name should say everything. But my major is not IT-focused and th
   - there already are some tools transforming input text into its "fancy font" counterparts. However, I've not come across a one suitable for _Latin Extended_ yet.
   - _Mathematical Alphanumeric Symbols_ represent only glyphs from _Basic Latin_. _Latin Extended_ characters have to be created by merging the MAS glyph with a proper _Combining Diacritical Symbol_ glyph.
 
+[^1]: [https://polonistyka.amu.edu.pl/]
+[^2]: [https://wfpik.amu.edu.pl/en]
+[^view]: [https://github.com/jasmine-and-irises/twine-rework]
+[^view]: [https://github.com/jasmine-and-irises/uni-projects-filpol]
 <!---
 ---
 ### [PL]
